@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {color:#009EE3; margin:0; padding:0;}
+#wrap {width: 700px ; margin-left: auto ; margin-right: auto;} 
+.head {width: 300px ; margin-left: auto ; margin-right: auto;} 
+.footer {background-color:#1c9bd8; height:100px;}
+
+h1 {font-family:"Helvetica", Arial, serif; font-weight:bold;}
+p {font-family:"Helvetica", Arial, serif; font-weight:normal;} 
+
+
+
+
+a:link {color:#009EE3; text-decoration:none;}      /* unvisited link */
+a:visited {color:#009EE3; text-decoration:none;}  /* visited link */
+a:hover {color:#009EE3; text-decoration:underline;}  /* mouse over link */
+a:active {color:#009EE3;}
+
